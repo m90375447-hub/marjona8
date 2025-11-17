@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Zakat Calculator",
+  "description": "A simple, minimalistic mobile application prototype focused on financial tracking and zakat calculation. It allows users to manage assets and liabilities, calculate zakat, set exchange rates, and view their financial history.",
+  "requestFramePermissions": []
+}
