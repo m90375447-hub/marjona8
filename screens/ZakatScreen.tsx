@@ -121,7 +121,7 @@ const ZakatScreen: React.FC = () => {
         />
       </div>
        <div className="text-center text-gray-500 text-sm p-4">
-            <p><strong>Formula:</strong> Zakot = (Sof aktivlar >= Nisob) ? Sof aktivlar × 2.5% : 0</p>
+            <p><strong>Formula:</strong> {'Zakot = (Sof aktivlar >= Nisob) ? Sof aktivlar × 2.5% : 0'}</p>
             <p>Zakot majburiyatlarini aniq hisoblash uchun diniy ulamo bilan maslahatlashing.</p>
        </div>
        <Modal isOpen={isNiyyahModalOpen} onClose={() => setIsNiyyahModalOpen(false)} title="Zakot Niyati">
